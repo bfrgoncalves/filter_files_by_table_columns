@@ -32,6 +32,7 @@ def filterFiles(args):
 			fileToCheck = os.path.join(args.i, i.strip("\n"))
 			print fileToCheck
 			if os.path.isfile(fileToCheck):
+				print 'AQUI'
 				shutil.copyfile(fileToCheck, args.o)
 
 	print 'Done'
