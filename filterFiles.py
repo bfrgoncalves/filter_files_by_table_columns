@@ -28,7 +28,7 @@ def filterFiles(args):
 		fileList = fileContent.readlines()
 
 		for i in fileList:
-			fileToCheck = os.path.join(args.i, i.strip("\n"))
+			fileToCheck = os.path.join(args.i, i)
 			print fileToCheck
 			print os.path.isfile(fileToCheck)
 			if os.path.isfile(fileToCheck):
