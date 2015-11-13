@@ -28,10 +28,9 @@ def filterFiles(args):
 		fileList = fileContent.readlines()
 
 		for i in fileList:
-			print i.strip("\n")
 			fileToCheck = os.path.join(args.i, i.strip("\n"))
 			print fileToCheck
-			if os.path.isfile(fileToCheck):
+			if os.path.exists(fileToCheck):
 				print 'AQUI'
 				shutil.copyfile(fileToCheck, args.o)
 
