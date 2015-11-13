@@ -30,7 +30,8 @@ def filterFiles(args):
 		for i in fileList:
 			fileToCheck = os.path.join(args.i, i.strip("\n"))
 			print fileToCheck
-			if os.path.exists(fileToCheck):
+			print os.path.isfile(fileToCheck)
+			if os.path.isfile(fileToCheck):
 				print 'AQUI'
 				shutil.copyfile(fileToCheck, args.o)
 
