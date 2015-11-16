@@ -37,7 +37,7 @@ def copyFiles(args):
 		lines = listToUse.readlines();
 		for i in lines:
 			fileToCheck = i.strip('\n')
-			if i in onlyfiles:
+			if fileToCheck in onlyfiles:
 				print 'AQUI'
 				filename, extension = os.path.splitext(i);
 				filename = filename.replace('.','_')
