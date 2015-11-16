@@ -33,10 +33,16 @@ def copyFiles(args):
 
 	onlyfiles = [ f for f in listdir(args.q) if isfile(join(args.q,f)) ]
 
-	print onlyfiles[0]
+	with open(args.l, 'r') as listToUse:
+		lines = listToUse.readlines();
+		for i in lines:
+			fileToCheck = i.strip('\n')
+			if i in onlyfiles:
+				shutil.copyfile(join(args.q,i), args.r)
+
+
 
 	return True
-	#with open(args.l, 'r') as listToUse:
 
 if __name__ == "__main__":
     main()
