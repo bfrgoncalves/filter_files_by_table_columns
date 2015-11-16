@@ -23,7 +23,6 @@ def main():
 
 	isDone = copyFiles(args)
 
-	isDone = writeFile(typesFiltered, args)
 
 	if isDone:
 		print 'Done'
@@ -36,4 +35,5 @@ def copyFiles(args):
 
 	print onlyfiles[0]
 
+	return True
 	#with open(args.l, 'r') as listToUse:
