@@ -40,6 +40,7 @@ def copyFiles(args):
 			if fileToCheck in onlyfiles:
 				filename, extension = os.path.splitext(i);
 				filename = filename.replace('.','_')
+				print extension
 				filenameToUse = filename + extension.replace('?','')
 				shutil.copyfile(join(args.q,i.strip('\n')), join(args.r, filenameToUse))
 
