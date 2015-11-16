@@ -37,3 +37,6 @@ def copyFiles(args):
 
 	return True
 	#with open(args.l, 'r') as listToUse:
+
+if __name__ == "__main__":
+    main()
