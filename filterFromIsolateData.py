@@ -55,7 +55,7 @@ def filterFiles(args):
 			else:
 				line = i.split('\t')
 				fileToCheck = line[int(args.f)].strip()
-				if typeToCheck in filesToCheck:
+				if fileToCheck in filesToCheck:
 					toWrite.append(line)
 
 			
