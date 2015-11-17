@@ -66,7 +66,7 @@ def writeFile(objectToWrite, args):
 	
 	with open(os.path.join(args.o, 'isolatesFiltered.txt'), 'w') as toWrite:
 		for i in objectToWrite:
-			toWrite.write(i + '\n')
+			toWrite.write(objectToWrite[i] + '\n')
 
 	return True
 
