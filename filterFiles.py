@@ -79,6 +79,8 @@ def filterFiles(args):
 
 			objectOfTypes[i] = picked
 
+		print objectOfTypes['']
+
 		print 'Total sample length: ' + str(totalSampled)
 			
 
