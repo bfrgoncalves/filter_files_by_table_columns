@@ -19,6 +19,7 @@ def main():
 	parser.add_argument('-f', nargs='?', type=str, help="filename column", required=True)
 	parser.add_argument('-min', nargs='?', type=str, help='min percentage of a population to be sampled for a given group', required=True)
 	parser.add_argument('-max', nargs='?', type=str, help='max number of samples for a given group', required=True)
+	parser.add_argument('-g', nargs='?', type=str, help='groups to be exported', required=True)
 	parser.add_argument('-o', nargs='?', type=str, help='output file directory', required=True)
 
 
@@ -55,12 +56,16 @@ def filterFiles(args):
 				else:
 					objectOfTypes[typeToCheck].append(line[int(args.f)])
 
-		print len(objectOfTypes['baumannii'])
 		numberOfGroups = objectOfTypes.keys()
 		maxNumberOfSamples = int(args.max)
 
+		toExport = {}
+
 		totalSampled = 0
 		for i in objectOfTypes:
+			if args.g:
+				if str(i) != str(args.g):
+					continue
 			maxNumber = len(objectOfTypes[i])
 			minValue = int(float(args.min) * maxNumber)
 
@@ -77,14 +82,13 @@ def filterFiles(args):
 
 			totalSampled += len(picked)
 
-			objectOfTypes[i] = picked
+			toExport[i] = picked
 
-		print objectOfTypes['']
 
 		print 'Total sample length: ' + str(totalSampled)
 			
 
-	return objectOfTypes
+	return toExport
 
 def writeFile(objectToWrite, args):
 	
