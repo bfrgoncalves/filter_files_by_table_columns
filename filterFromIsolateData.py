@@ -39,7 +39,7 @@ def filterFiles(args):
 	headerLine = True;
 
 	filesToCheck = []
-	toWritw = []
+	toWrite = []
 
 	with open(args.l, 'r') as listToUse:
 		lines = listToUse.readlines();
