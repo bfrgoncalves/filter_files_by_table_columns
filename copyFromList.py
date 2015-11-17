@@ -32,14 +32,14 @@ def main():
 def copyFiles(args):
 
 	onlyfiles = [ f for f in listdir(args.q) if isfile(join(args.q,f)) ]
-	print onlyfiles
+	#print onlyfiles
 
 	with open(args.l, 'r') as listToUse:
 		lines = listToUse.readlines();
 		for i in lines:
 			fileToCheck = i.strip('\n')
 			#print fileToCheck
-			if fileToCheck in onlyfiles:
+			if str(fileToCheck) in onlyfiles:
 				print fileToCheck
 				filename, extension = os.path.splitext(fileToCheck);
 				filename = filename.replace('.','_')
