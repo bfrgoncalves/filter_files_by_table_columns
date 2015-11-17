@@ -20,6 +20,7 @@ def main():
 	parser.add_argument('-min', nargs='?', type=str, help='min percentage of a population to be sampled for a given group', required=True)
 	parser.add_argument('-max', nargs='?', type=str, help='max number of samples for a given group', required=True)
 	parser.add_argument('-g', nargs='?', type=str, help='groups to be exported', required=True)
+	parser.add_argument('-header', nargs='?', type=str, help='True if has header', required=True)
 	parser.add_argument('-o', nargs='?', type=str, help='output file directory', required=True)
 
 
@@ -44,11 +45,12 @@ def filterFiles(args):
 	with open(args.t) as fileContent:
 		fileList = fileContent.readlines()
 		for i in fileList:
-			if headerLine:
+			if headerLine and args.header:
 				headerLine = False;
 				continue
 			else:
 				line = i.split('\t')
+				print line
 				typeToCheck = line[int(args.i)].strip()
 				if typeToCheck not in objectOfTypes:
 					objectOfTypes[typeToCheck] = []
