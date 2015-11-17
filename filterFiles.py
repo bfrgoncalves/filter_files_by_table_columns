@@ -55,7 +55,7 @@ def filterFiles(args):
 				else:
 					objectOfTypes[typeToCheck].append(line[int(args.f)])
 
-		print objectOfTypes['']
+		print len(objectOfTypes[''])
 		numberOfGroups = objectOfTypes.keys()
 		maxNumberOfSamples = int(args.max)
 
