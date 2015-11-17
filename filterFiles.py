@@ -55,7 +55,7 @@ def filterFiles(args):
 				else:
 					objectOfTypes[typeToCheck].append(line[int(args.f)])
 
-		print len(objectOfTypes[''])
+		print len(objectOfTypes['baumannii'])
 		numberOfGroups = objectOfTypes.keys()
 		maxNumberOfSamples = int(args.max)
 
