@@ -38,9 +38,7 @@ def copyFiles(args):
 		lines = listToUse.readlines();
 		for i in lines:
 			fileToCheck = i.strip('\n').strip()
-			#print fileToCheck
 			if fileToCheck in onlyfiles:
-				print fileToCheck
 				filename, extension = os.path.splitext(fileToCheck);
 				filename = filename.replace('.','_')
 				filenameToUse = filename + extension
