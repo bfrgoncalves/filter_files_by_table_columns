@@ -56,7 +56,7 @@ def filterFiles(args):
 				line = i.split('\t')
 				fileToCheck = line[int(args.f)].strip()
 				if fileToCheck in filesToCheck:
-					toWrite.append(line)
+					toWrite.append(i)
 
 			
 	return toWrite
