@@ -1,0 +1,551 @@
+1_S1_L001.fasta	1	2	2	457	1	92	?	isr_samples	baumannii
+10_S10_L001.fasta	10	2	2	457	10	92	?	isr_samples	baumannii
+11_S11_L001.fasta	11	500-124	3	106	11	106	?	isr_samples	baumannii
+18_S18_L001.fasta	18	2	2	457	18	92	?	isr_samples	baumannii
+20_S20_L001.fasta	20	500-124	3	106	20	106	?	isr_samples	baumannii
+21_S21_L001.fasta	21	2	2	208	21	92	?	isr_samples	baumannii
+3_S3_L001.fasta	3	500-124	3	106	3	106	?	isr_samples	baumannii
+4_S4_L001.fasta	4	2	2	208	4	92	?	isr_samples	baumannii
+5_S5_L001.fasta	5	2	32	823	5	singleton	?	isr_samples	baumannii
+7_S7_L001.fasta	7	2	203	new	7	singleton	?	isr_samples	baumannii
+8_S8_L001.fasta	8	2	2	195	8	92	?	isr_samples	baumannii
+ERR110008.fasta			2	208				ERP001080	baumannii
+ERR110009.fasta			2	208				ERP001080	baumannii
+ERR110012.fasta			2	208				ERP001080	baumannii
+ERR110013.fasta			2	208				ERP001080	baumannii
+ERR110014.fasta			2	208				ERP001080	baumannii
+ERR110015.fasta			2	208				ERP001080	baumannii
+ERR110016.fasta			2	208				ERP001080	baumannii
+ERR110018.fasta			2	208				ERP001080	baumannii
+ERR110019.fasta			2	208				ERP001080	baumannii
+ERR110024.fasta			2	208				ERP001080	baumannii
+ERR110025.fasta			2	208				ERP001080	baumannii
+ERR110026.fasta			2	208				ERP001080	baumannii
+ERR110028.fasta			2	208				ERP001080	baumannii
+ERR110029.fasta			2	208				ERP001080	baumannii
+ERR110030.fasta			2	208				ERP001080	baumannii
+ERR110031.fasta			2	208				ERP001080	baumannii
+ERR110033.fasta			2	208				ERP001080	baumannii
+ERR110035.fasta			2	208				ERP001080	baumannii
+ERR110038.fasta			2	208				ERP001080	baumannii
+ERR110040.fasta			2	208				ERP001080	baumannii
+ERR110046.fasta			2	208				ERP001080	baumannii
+ERR110049.fasta			-	208				ERP001080	baumannii
+ERR110053.fasta			2	208				ERP001080	baumannii
+ERR110054.fasta			2	208				ERP001080	baumannii
+ERR110057.fasta			-	-				ERP001080	baumannii
+ERR110058.fasta			2	350				ERP001080	baumannii
+ERR110059.fasta			2	350				ERP001080	baumannii
+ERR110060.fasta			2	423				ERP001080	baumannii
+ERR110061.fasta			2	423				ERP001080	baumannii
+ERR110062.fasta			2	423				ERP001080	baumannii
+ERR110063.fasta			2	423				ERP001080	baumannii
+ERR110065.fasta			2	208				ERP001080	baumannii
+ERR110066.fasta			25	229				ERP001080	baumannii
+ERR110067.fasta			1	231				ERP001080	baumannii
+ERR110069.fasta			2	208				ERP001080	baumannii
+ERR110070.fasta			2	208				ERP001080	baumannii
+ERR110071.fasta			2	208				ERP001080	baumannii
+ERR110072.fasta			2	208				ERP001080	baumannii
+ERR110073.fasta			2	208				ERP001080	baumannii
+ERR110074.fasta			2	208				ERP001080	baumannii
+ERR110075.fasta			111	-				ERP001080	baumannii
+ERR110077.fasta			1	231				ERP001080	baumannii
+ERR110078.fasta			1	231				ERP001080	baumannii
+ERR110079.fasta			1	231				ERP001080	baumannii
+ERR110080.fasta			-	208				ERP001080	baumannii
+ERR110081.fasta			1	439				ERP001080	baumannii
+ERR110082.fasta			1	-				ERP001080	baumannii
+ERR110083.fasta			2	208				ERP001080	baumannii
+ERR110086.fasta			1	-				ERP001080	baumannii
+ERR110087.fasta			2	425				ERP001080	baumannii
+ERR110088.fasta			2	208				ERP001080	baumannii
+ERR110089.fasta			2	208				ERP001080	baumannii
+ERR110090.fasta			2	195				ERP001080	baumannii
+ERR110091.fasta			2	208				ERP001080	baumannii
+ERR110093.fasta			2	208				ERP001080	baumannii
+ERR110094.fasta			2	208				ERP001080	baumannii
+ERR110096.fasta			2	208				ERP001080	baumannii
+ERR110097.fasta			2	208				ERP001080	baumannii
+ERR110098.fasta			1	231				ERP001080	baumannii
+ERR110100.fasta			1	231				ERP001080	baumannii
+ERR110101.fasta			2	208				ERP001080	baumannii
+ERR110102.fasta			1	231				ERP001080	baumannii
+ERR110103.fasta			2	208				ERP001080	baumannii
+ERR119657.fasta			1	231				ERP001080	baumannii
+ERR119658.fasta			81	498				ERP001080	baumannii
+ERR119659.fasta			1	441				ERP001080	baumannii
+ERR119660.fasta			1	-				ERP001080	baumannii
+ERR119662.fasta			2	208				ERP001080	baumannii
+ERR119663.fasta			460	231				ERP001080	baumannii
+ERR119664.fasta			1	231				ERP001080	baumannii
+ERR119666.fasta			25	364				ERP001080	baumannii
+ERR119667.fasta			1	231				ERP001080	baumannii
+ERR119668.fasta			1	231				ERP001080	baumannii
+ERR119669.fasta			1	231				ERP001080	baumannii
+ERR119670.fasta			-	231				ERP001080	baumannii
+ERR119671.fasta			1	231				ERP001080	baumannii
+ERR119676.fasta			2	208				ERP001080	baumannii
+ERR119677.fasta			1	-				ERP001080	baumannii
+ERR119678.fasta			1	231				ERP001080	baumannii
+ERR119679.fasta			1	441				ERP001080	baumannii
+ERR119680.fasta			1	231				ERP001080	baumannii
+ERR190411.fasta			68	-				ERP001080	nosocomialis
+ERR190412.fasta			68	-				ERP001080	nosocomialis
+ERR190413.fasta			68	-				ERP001080	nosocomialis
+ERR190414.fasta			2	136				ERP001080	baumannii
+ERR190415.fasta			2	-				ERP001080	baumannii
+ERR190418.fasta			2	136				ERP001080	baumannii
+ERR190419.fasta			23	642				ERP001080	baumannii
+ERR190420.fasta			23	642				ERP001080	baumannii
+ERR190421.fasta			109	542				ERP001080	baumannii
+ERR190422.fasta			23	642				ERP001080	baumannii
+ERR190424.fasta			68	-				ERP001080	nosocomialis
+ERR190427.fasta			68	-				ERP001080	nosocomialis
+ERR190429.fasta			68	704				ERP001080	nosocomialis
+ERR190430.fasta			-	493				ERP001080	baumannii
+ERR190431.fasta			68	-				ERP001080	nosocomialis
+ERR190434.fasta			-	493				ERP001080	baumannii
+ERR190438.fasta			-	493				ERP001080	baumannii
+ERR190440.fasta			-	493				ERP001080	baumannii
+ERR190441.fasta			-	-				ERP001080	baumannii
+ERR190442.fasta			108	-				ERP001080	baumannii
+ERR190443.fasta			23	642				ERP001080	baumannii
+ERR190445.fasta			433	-				ERP001080	nosocomialis
+ERR190446.fasta			52	-				ERP001080	baumannii
+ERR190447.fasta			52	-				ERP001080	baumannii
+ERR190448.fasta			2	136				ERP001080	baumannii
+ERR190452.fasta			2	136				ERP001080	baumannii
+ERR190453.fasta			217	-				ERP001080	nosocomialis
+ERR190454.fasta			2	136				ERP001080	baumannii
+ERR190460.fasta			217	-				ERP001080	nosocomialis
+ERR190463.fasta			-	-				ERP001080	indeterminate
+ERR190464.fasta			16	355				ERP001080	baumannii
+ERR190465.fasta			2	208				ERP001080	baumannii
+ERR190467.fasta			10	585				ERP001080	baumannii
+ERR190470.fasta			16	355				ERP001080	baumannii
+ERR190471.fasta			16	355				ERP001080	baumannii
+ERR190473.fasta			2	136				ERP001080	baumannii
+ERR190475.fasta			2	208				ERP001080	baumannii
+ERR190476.fasta			142	-				ERP001080	baumannii
+ERR190477.fasta			-	355				ERP001080	baumannii
+ERR190479.fasta			2	208				ERP001080	baumannii
+ERR190481.fasta			-	-				ERP001080	baumannii
+ERR190482.fasta			-	-				ERP001080	baumannii
+ERR190485.fasta			68	-				ERP001080	nosocomialis
+ERR190488.fasta			-	-				ERP001080	baumannii
+ERR190490.fasta			2	136				ERP001080	baumannii
+ERR190491.fasta			2	136				ERP001080	baumannii
+ERR190492.fasta			-	-				ERP001080	baumannii
+ERR190493.fasta			2	136				ERP001080	baumannii
+ERR190494.fasta			-	493				ERP001080	baumannii
+ERR190495.fasta			-	-				ERP001080	baumannii
+ERR190496.fasta			-	-				ERP001080	baumannii
+ERR190498.fasta			2	136				ERP001080	baumannii
+ERR190499.fasta			2	136				ERP001080	baumannii
+ERR190502.fasta			1	491				ERP001080	baumannii
+ERR190503.fasta			1	491				ERP001080	baumannii
+ERR190504.fasta			-	-				ERP001080	baumannii
+ERR190505.fasta			10	447				ERP001080	baumannii
+ERR190506.fasta			23	761				ERP001080	baumannii
+ERR193648.fasta			2	218				ERP001917	baumannii
+ERR193649.fasta			40	373				ERP001917	baumannii
+ERR197551.fasta			109	542				ERP001080	baumannii
+ERR197552.fasta			10	447				ERP001080	baumannii
+ERR197553.fasta			25	229				ERP001080	baumannii
+ERR197555.fasta			10	447				ERP001080	baumannii
+ERR197557.fasta			71	-				ERP001080	nosocomialis
+ERR197558.fasta			68	704				ERP001080	nosocomialis
+ERR197560.fasta			25	229				ERP001080	baumannii
+ERR197561.fasta			375	-				ERP001080	baumannii
+ERR197562.fasta			-	-				ERP001080	nosocomialis
+ERR197564.fasta			-	-				ERP001080	nosocomialis
+ERR197567.fasta			-	-				ERP001080	nosocomialis
+ERR197569.fasta			-	620				ERP001080	baumannii
+ERR197571.fasta			410	-				ERP001080	nosocomialis
+ERR197572.fasta			2	208				ERP001080	baumannii
+ERR197573.fasta			-	-				ERP001080	baumannii
+ERR197574.fasta			-	620				ERP001080	baumannii
+ERR197575.fasta			-	620				ERP001080	baumannii
+ERR197576.fasta			-	-				ERP001080	baumannii
+ERR197577.fasta			-	-				ERP001080	baumannii
+ERR197581.fasta			-	-				ERP001080	baumannii
+ERR197587.fasta			-	-				ERP001080	baumannii
+ERR197590.fasta			216	-				ERP001080	baumannii
+ERR197591.fasta			142	-				ERP001080	baumannii
+ERR197594.fasta			2	208				ERP001080	baumannii
+ERR197597.fasta			-	-				ERP001080	baumannii
+ERR197600.fasta			359	-				ERP001080	nosocomialis
+ERR197601.fasta			2	208				ERP001080	baumannii
+ERR197602.fasta			359	-				ERP001080	nosocomialis
+ERR197603.fasta			359	-				ERP001080	nosocomialis
+ERR197606.fasta			68	-				ERP001080	nosocomialis
+ERR197607.fasta			68	-				ERP001080	nosocomialis
+ERR197611.fasta			68	-				ERP001080	nosocomialis
+ERR197612.fasta			2	208				ERP001080	baumannii
+ERR197614.fasta			2	208				ERP001080	baumannii
+ERR197615.fasta			68	-				ERP001080	nosocomialis
+ERR197617.fasta			68	-				ERP001080	nosocomialis
+ERR197622.fasta			2	208				ERP001080	baumannii
+ERR197626.fasta			25	229				ERP001080	baumannii
+ERR197627.fasta			2	208				ERP001080	baumannii
+ERR197629.fasta			16	355				ERP001080	baumannii
+ERR197630.fasta			25	229				ERP001080	baumannii
+ERR197632.fasta			10	447				ERP001080	baumannii
+ERR197634.fasta			10	447				ERP001080	baumannii
+ERR197635.fasta			10	447				ERP001080	baumannii
+ERR197636.fasta			25	229				ERP001080	baumannii
+ERR197637.fasta			-	620				ERP001080	baumannii
+ERR197638.fasta			10	447				ERP001080	baumannii
+ERR197639.fasta			10	447				ERP001080	baumannii
+ERR197640.fasta			-	542				ERP001080	baumannii
+ERR197644.fasta			25	229				ERP001080	baumannii
+ERR197645.fasta			-	542				ERP001080	baumannii
+ERR197646.fasta			-	-				ERP001080	baumannii
+ERR246680.fasta			2	195				ERP001080	baumannii
+ERR246681.fasta			2	195				ERP001080	baumannii
+ERR246682.fasta			144	-				ERP001080	baumannii
+ERR246683.fasta			2	208				ERP001080	baumannii
+ERR246684.fasta			2	208				ERP001080	baumannii
+ERR246685.fasta			2	-				ERP001080	baumannii
+ERR246686.fasta			2	436				ERP001080	baumannii
+ERR246687.fasta			2	-				ERP001080	baumannii
+ERR246688.fasta			2	208				ERP001080	baumannii
+ERR246689.fasta			2	195				ERP001080	baumannii
+ERR246692.fasta			2	-				ERP001080	baumannii
+ERR246695.fasta			2	457				ERP001080	baumannii
+ERR246697.fasta			2	195				ERP001080	baumannii
+ERR246699.fasta			2	195				ERP001080	baumannii
+ERR246700.fasta			2	436				ERP001080	baumannii
+ERR246702.fasta			2	457				ERP001080	baumannii
+ERR246708.fasta			2	195				ERP001080	baumannii
+ERR246716.fasta			2	451				ERP001080	baumannii
+ERR246717.fasta			98	-				ERP001080	baumannii
+ERR246722.fasta			2	457				ERP001080	baumannii
+ERR246723.fasta			2	195				ERP001080	baumannii
+ERR246725.fasta			-	-				ERP001080	baumannii
+ERR246734.fasta			215	-				ERP001080	baumannii
+ERR246735.fasta			77	-				ERP001080	baumannii
+ERR246736.fasta			2	195				ERP001080	baumannii
+ERR246738.fasta			2	-				ERP001080	baumannii
+ERR246741.fasta			-	-				ERP001080	baumannii
+ERR246742.fasta			25	229				ERP001080	baumannii
+ERR246743.fasta			77	-				ERP001080	baumannii
+ERR246744.fasta			2	195				ERP001080	baumannii
+ERR246746.fasta			2	195				ERP001080	baumannii
+ERR246751.fasta			-	-				ERP001080	baumannii
+ERR246755.fasta			2	208				ERP001080	baumannii
+ERR246756.fasta			2	208				ERP001080	baumannii
+ERR246760.fasta			2	195				ERP001080	baumannii
+ERR246764.fasta			98	-				ERP001080	baumannii
+ERR246765.fasta			2	195				ERP001080	baumannii
+ERR246766.fasta			2	451				ERP001080	baumannii
+ERR246769.fasta			2	208				ERP001080	baumannii
+ERR246773.fasta			2	457				ERP001080	baumannii
+ERR246774.fasta			2	451				ERP001080	baumannii
+ERR246776.fasta			1	-				ERP001080	baumannii
+ERR246777.fasta			1	-				ERP001080	baumannii
+ERR246778.fasta			1	231				ERP001080	baumannii
+ERR246779.fasta			1	207				ERP001080	baumannii
+ERR246780.fasta			1	491				ERP001080	baumannii
+ERR246781.fasta			1	-				ERP001080	baumannii
+ERR246782.fasta			1	491				ERP001080	baumannii
+ERR246783.fasta			1	-				ERP001080	baumannii
+ERR246787.fasta			1	-				ERP001080	baumannii
+ERR246788.fasta			1	491				ERP001080	baumannii
+ERR246789.fasta			1	-				ERP001080	baumannii
+ERR246790.fasta			1	491				ERP001080	baumannii
+ERR246795.fasta			1	-				ERP001080	baumannii
+ERR246796.fasta			1	207				ERP001080	baumannii
+ERR246797.fasta			1	491				ERP001080	baumannii
+ERR246798.fasta			1	-				ERP001080	baumannii
+ERR246803.fasta			40	373				ERP001080	baumannii
+ERR246805.fasta			1	491				ERP001080	baumannii
+ERR246809.fasta			1	-				ERP001080	baumannii
+ERR246812.fasta			1	491				ERP001080	baumannii
+ERR246813.fasta			1	-				ERP001080	baumannii
+ERR246816.fasta			1	-				ERP001080	baumannii
+ERR246818.fasta			1	491				ERP001080	baumannii
+ERR246819.fasta			1	491				ERP001080	baumannii
+ERR246821.fasta			1	491				ERP001080	baumannii
+ERR246822.fasta			1	491				ERP001080	baumannii
+ERR246824.fasta			1	231				ERP001080	baumannii
+ERR246825.fasta			1	231				ERP001080	baumannii
+ERR246828.fasta			1	491				ERP001080	baumannii
+ERR246830.fasta			1	-				ERP001080	baumannii
+ERR246836.fasta			1	207				ERP001080	baumannii
+ERR246837.fasta			1	491				ERP001080	baumannii
+ERR246839.fasta			1	-				ERP001080	baumannii
+ERR246845.fasta			1	491				ERP001080	baumannii
+ERR246847.fasta			1	491				ERP001080	baumannii
+ERR246852.fasta			1	-				ERP001080	baumannii
+ERR246853.fasta			1	-				ERP001080	baumannii
+ERR246854.fasta			1	231				ERP001080	baumannii
+ERR246856.fasta			1	-				ERP001080	baumannii
+ERR246861.fasta			1	-				ERP001080	baumannii
+ERR246863.fasta			1	491				ERP001080	baumannii
+ERR246865.fasta			1	231				ERP001080	baumannii
+ERR246866.fasta			1	491				ERP001080	baumannii
+ERR246870.fasta			1	491				ERP001080	baumannii
+ERR246871.fasta			1	491				ERP001080	baumannii
+ERR246872.fasta			1	491				ERP001080	baumannii
+ERR246873.fasta			2	423				ERP001080	baumannii
+ERR246874.fasta			2	218				ERP001080	baumannii
+ERR246875.fasta			2	218				ERP001080	baumannii
+ERR246876.fasta			2	350				ERP001080	baumannii
+ERR246878.fasta			2	218				ERP001080	baumannii
+ERR246879.fasta			2	195				ERP001080	baumannii
+ERR246884.fasta			2	218				ERP001080	baumannii
+ERR246885.fasta			384	-				ERP001080	baumannii
+ERR246893.fasta			2	208				ERP001080	baumannii
+ERR246898.fasta			2	-				ERP001080	baumannii
+ERR246901.fasta			2	208				ERP001080	baumannii
+ERR246902.fasta			2	195				ERP001080	baumannii
+ERR246906.fasta			2	218				ERP001080	baumannii
+ERR246907.fasta			2	208				ERP001080	baumannii
+ERR246908.fasta			2	218				ERP001080	baumannii
+ERR246909.fasta			2	-				ERP001080	baumannii
+ERR246911.fasta			2	208				ERP001080	baumannii
+ERR246916.fasta			2	-				ERP001080	baumannii
+ERR246919.fasta			2	208				ERP001080	baumannii
+ERR246921.fasta			2	208				ERP001080	baumannii
+ERR246924.fasta			2	-				ERP001080	baumannii
+ERR246925.fasta			-	-				ERP001080	baumannii
+ERR246927.fasta			2	195				ERP001080	baumannii
+ERR246928.fasta			2	547				ERP001080	baumannii
+ERR246931.fasta			-	208				ERP001080	baumannii
+ERR246932.fasta			2	-				ERP001080	baumannii
+ERR246935.fasta			2	195				ERP001080	baumannii
+ERR246936.fasta			2	208				ERP001080	baumannii
+ERR246937.fasta			2	423				ERP001080	baumannii
+ERR246940.fasta			2	-				ERP001080	baumannii
+ERR246941.fasta			384	-				ERP001080	baumannii
+ERR246943.fasta			2	195				ERP001080	baumannii
+ERR246945.fasta			2	-				ERP001080	baumannii
+ERR246951.fasta			2	-				ERP001080	baumannii
+ERR246954.fasta			2	218				ERP001080	baumannii
+ERR246956.fasta			2	-				ERP001080	baumannii
+ERR246957.fasta			98	-				ERP001080	baumannii
+ERR246962.fasta			2	208				ERP001080	baumannii
+ERR246963.fasta			2	208				ERP001080	baumannii
+ERR246965.fasta			2	208				ERP001080	baumannii
+ERR249213.fasta			49	128				ERP001080	baumannii
+ERR249214.fasta			68	704				ERP001080	nosocomialis
+ERR249217.fasta			187	208				ERP001080	baumannii
+ERR249218.fasta			1	231				ERP001080	baumannii
+ERR249219.fasta			1	231				ERP001080	baumannii
+ERR249225.fasta			2	208				ERP001080	baumannii
+ERR249226.fasta			2	208				ERP001080	baumannii
+ERR249227.fasta			187	208				ERP001080	baumannii
+ERR249228.fasta			2	208				ERP001080	baumannii
+ERR249229.fasta			2	208				ERP001080	baumannii
+ERR249236.fasta			2	208				ERP001080	baumannii
+ERR249245.fasta			2	208				ERP001080	baumannii
+ERR249251.fasta			2	208				ERP001080	baumannii
+ERR249256.fasta			2	208				ERP001080	baumannii
+ERR249257.fasta			2	208				ERP001080	baumannii
+ERR249258.fasta			2	208				ERP001080	baumannii
+ERR249259.fasta			2	368				ERP001080	baumannii
+ERR249267.fasta			2	368				ERP001080	baumannii
+ERR249268.fasta			2	208				ERP001080	baumannii
+ERR249270.fasta			2	208				ERP001080	baumannii
+ERR249274.fasta			2	208				ERP001080	baumannii
+ERR249275.fasta			2	208				ERP001080	baumannii
+ERR249278.fasta			2	208				ERP001080	baumannii
+ERR249280.fasta			2	208				ERP001080	baumannii
+ERR249282.fasta			2	208				ERP001080	baumannii
+ERR249283.fasta			2	208				ERP001080	baumannii
+ERR249286.fasta			2	208				ERP001080	baumannii
+ERR249287.fasta			2	208				ERP001080	baumannii
+ERR249288.fasta			1	231				ERP001080	baumannii
+ERR249293.fasta			1	231				ERP001080	baumannii
+ERR249294.fasta			1	231				ERP001080	baumannii
+ERR249295.fasta			1	231				ERP001080	baumannii
+ERR249296.fasta			49	128				ERP001080	baumannii
+ERR249297.fasta			1	231				ERP001080	baumannii
+ERR249304.fasta			187	208				ERP001080	baumannii
+ERR249305.fasta			187	208				ERP001080	baumannii
+ERR249306.fasta			2	208				ERP001080	baumannii
+ERR249307.fasta			2	452				ERP001080	baumannii
+ERR263707.fasta			2	208				ERP001080	baumannii
+ERR263716.fasta			-	-				ERP001080	baumannii
+ERR263717.fasta			103	514				ERP001080	baumannii
+ERR263718.fasta			-	-				ERP001080	baumannii
+ERR263719.fasta			1	231				ERP001080	baumannii
+ERR263720.fasta			1	231				ERP001080	baumannii
+ERR263725.fasta			-	620				ERP001080	baumannii
+ERR263728.fasta			2	136				ERP001080	baumannii
+ERR355980.fasta			94	-				ERP004046	baumannii
+ERR355984.fasta			94	-				ERP004046	baumannii
+ERR356010.fasta			94	-				ERP004046	baumannii
+ERR356013.fasta			94	-				ERP004046	baumannii
+ERR356028.fasta			94	-				ERP004046	baumannii
+ERR356238.fasta			149	-				ERP004046	baumannii
+ERR356243.fasta			136	-				ERP004046	baumannii
+ERR356245.fasta			94	-				ERP004046	baumannii
+ERR356246.fasta			94	-				ERP004046	baumannii
+ERR356248.fasta			2	502				ERP004046	baumannii
+ERR356249.fasta			-					ERP004046	indeterminate
+ERR356258.fasta			2	-				ERP004046	baumannii
+ERR356259.fasta			94	-				ERP004046	baumannii
+ERR356260.fasta			195	-				ERP004046	baumannii
+ERR356261.fasta			195	-				ERP004046	baumannii
+ERR356266.fasta			-	-				ERP004046	pittii
+ERR356270.fasta			2	502				ERP004046	baumannii
+ERR356281.fasta			-	-				ERP004046	baumannii
+ERR356285.fasta			2	-				ERP004046	baumannii
+ERR356288.fasta			94	-				ERP004046	baumannii
+ERR356289.fasta			2	502				ERP004046	baumannii
+ERR356294.fasta			195	-				ERP004046	baumannii
+ERR356308.fasta			149	-				ERP004046	baumannii
+ERR356313.fasta			136	-				ERP004046	baumannii
+ERR356320.fasta			94	-				ERP004046	baumannii
+ERR356328.fasta			2	451				ERP004046	baumannii
+ERR356333.fasta			94	387				ERP004046	baumannii
+ERR356341.fasta			94	-				ERP004046	baumannii
+ERR356347.fasta			94	387				ERP004046	baumannii
+ERR356361.fasta			94	-				ERP004046	baumannii
+ERR356363.fasta			-	-				ERP004046	baumannii
+ERR474002.fasta			25	229				ERP004424	baumannii
+ERR474003.fasta			2	208				ERP004424	baumannii
+ERR474004.fasta			64	-				ERP004424	pittii
+ERR474005.fasta			2	208				ERP004424	baumannii
+ERR474008.fasta			2	218				ERP004424	baumannii
+ERR474019.fasta			2	-				ERP004424	baumannii
+ERR474021.fasta			2	-				ERP004424	baumannii
+ERR474022.fasta			2	-				ERP004424	baumannii
+ERR474024.fasta			188	305				ERP004424	baumannii
+ERR474025.fasta			25	490				ERP004424	baumannii
+ERR474026.fasta			1	231				ERP004424	baumannii
+ERR486685.fasta			2	437				ERP004424	baumannii
+ERR486686.fasta			25	229				ERP004424	baumannii
+ERR486691.fasta			1	231				ERP004424	baumannii
+ERR564204.fasta			16	355				ERP004913	baumannii
+ERR564211.fasta			10	585				ERP004913	baumannii
+ERR564216.fasta			52	-				ERP004913	baumannii
+ERR564218.fasta			52	-				ERP004913	baumannii
+ERR586936.fasta			10	585				ERP004913	baumannii
+ERR586957.fasta			10	585				ERP004913	baumannii
+NC_009085.fna			437	112	gbk			complete_genomes	baumannii
+NC_010410.fna			1	231	gbk			complete_genomes	baumannii
+NC_010611.fna			2	437	gbk			complete_genomes	baumannii
+NC_011586.fna			1	207	gbk			complete_genomes	baumannii
+NC_011595.fna			1	231	gbk			complete_genomes	baumannii
+NC_017162.fna			2	423	gbk			complete_genomes	baumannii
+NC_017171.fna			2	643	gbk			complete_genomes	baumannii
+NC_017387.fna			2	218	gbk			complete_genomes	baumannii
+NC_017847.fna			2	369	gbk			complete_genomes	baumannii
+NC_018706.fna			2	455	gbk			complete_genomes	baumannii
+NC_020547.fna			267	New1	gbk			complete_genomes	baumannii
+NC_021726.fna			2	368	gbk			complete_genomes	baumannii
+NC_021729.fna			2	218	gbk			complete_genomes	baumannii
+NC_021733.fna			23	642	gbk			complete_genomes	baumannii
+NC_023028.fna			New	New3	gbk			complete_genomes	baumannii
+SRR089343.fasta			81	498				SRP005019	baumannii
+SRR089345.fasta			2	-				SRP005020	baumannii
+SRR353949.fasta			3	106				SRP004464	baumannii
+SRR353950.fasta			3	106				SRP004461	baumannii
+SRR353951.fasta			25	691				SRP004462	baumannii
+SRR353953.fasta			1	-				SRP003690	baumannii
+SRR353956.fasta			3	-				SRP004667	baumannii
+SRR387244.fasta			19	231				SRP009495	baumannii
+SRR387295.fasta			-	-				SRP009500	baumannii
+SRR387296.fasta			1	-				SRP009501	baumannii
+SRR387297.fasta			155	-				SRP009502	baumannii
+SRR387300.fasta			32	-				SRP009505	baumannii
+SRR387301.fasta			3	-				SRP009506	baumannii
+SRR387303.fasta			1	-				SRP009508	baumannii
+SRR387304.fasta			412	-				SRP009509	baumannii
+SRR387305.fasta			412	-				SRP009510	baumannii
+SRR387307.fasta			428	-				SRP009512	baumannii
+SRR387308.fasta			2	281				SRP009513	baumannii
+SRR387309.fasta			10	391				SRP009514	baumannii
+SRR387310.fasta			405	-				SRP009515	baumannii
+SRR387311.fasta			-	-				SRP009516	baumannii
+SRR387312.fasta			136	-				SRP009517	baumannii
+SRR387315.fasta			1	-				SRP009520	baumannii
+SRR387316.fasta			403	683				SRP009521	baumannii
+SRR387317.fasta			32	472				SRP009522	baumannii
+SRR387318.fasta			2	-				SRP009523	baumannii
+SRR387319.fasta			20	449				SRP009524	baumannii
+SRR387320.fasta			414	265				SRP009525	baumannii
+SRR387323.fasta			19	-				SRP009528	baumannii
+SRR387325.fasta			136	-				SRP009530	baumannii
+SRR387326.fasta			2	350				SRP009531	baumannii
+SRR387327.fasta			49	128				SRP009532	baumannii
+SRR387328.fasta			2	281				SRP009533	baumannii
+SRR387329.fasta			158	499				SRP009534	baumannii
+SRR387330.fasta			431	-				SRP009535	baumannii
+SRR387331.fasta			-	-				SRP009536	baumannii
+SRR475446.fasta			2	208				SRP022560	baumannii
+SRR475449.fasta			2	281				SRP022562	baumannii
+SRR475450.fasta			2	281				SRP022562	baumannii
+SRR475458.fasta			419	-				SRP022563	baumannii
+SRR475460.fasta			2	208				SRP022560	baumannii
+SRR475463.fasta			2	208				SRP022560	baumannii
+SRR475466.fasta			419	-				SRP022563	baumannii
+SRR475467.fasta			419	-				SRP022563	baumannii
+SRR529977.fasta			419	-				SRP022563	baumannii
+SRR654235.fasta			12	-				SRP021373	baumannii
+SRR654248.fasta			2	208				SRP021372	baumannii
+SRR654296.fasta			34	432				SRP021387	baumannii
+SRR654364.fasta			3	106				SRP021350	baumannii
+SRR654416.fasta			9	-				SRP021354	baumannii
+SRR654420.fasta			15	-				SRP021346	baumannii
+SRR721181.fasta			47	437				SRP021375	baumannii
+SRR721188.fasta			12	-				SRP021373	baumannii
+SRR721192.fasta			25	276				SRP018350	baumannii
+SRR721211.fasta			2	208				SRP021372	baumannii
+SRR721218.fasta			2	556				SRP021399	baumannii
+SRR833248.fasta			39	-				SRP021412	baumannii
+SRR833591.fasta			52	-				SRP000494	baumannii
+6_S6_L001_R1_001_assembly.fa									pittii
+Acinetobacter_baumannii_1000160.GCA_000588715.2.24.dna.genome.fa									
+Acinetobacter_baumannii_1179249.GCA_000587995.1.24.dna.genome.fa									
+Acinetobacter_baumannii_1239920.GCA_000582235.1.24.dna.genome.fa									
+Acinetobacter_baumannii_1245249.GCA_000584575.1.24.dna.genome.fa									
+Acinetobacter_baumannii_1264765.GCA_000681815.1.24.dna.genome.fa									pittii*
+Acinetobacter_baumannii_1289694.GCA_000580855.1.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_1294243.GCA_000588015.1.24.dna.genome.fa									pittii*
+Acinetobacter_baumannii_1294596.GCA_000582925.1.24.dna.genome.fa									
+Acinetobacter_baumannii_1295259.GCA_000581095.1.24.dna.genome.fa									pittii*
+Acinetobacter_baumannii_1437282.GCA_000580915.1.24.dna.genome.fa									
+Acinetobacter_baumannii_1451147.GCA_000681535.1.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_1461402.GCA_000580635.1.24.dna.genome.fa									
+Acinetobacter_baumannii_146457.GCA_000580655.1.24.dna.genome.fa									
+Acinetobacter_baumannii_1475718.GCA_000580955.1.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_1542444.GCA_000581835.1.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_1564232.GCA_000584815.2.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_1578804.GCA_000582075.1.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_225588.GCA_000588415.1.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_230853.GCA_000581195.1.24.dna.genome.fa									
+Acinetobacter_baumannii_25977_9.GCA_000682095.1.24.dna.genome.fa									
+Acinetobacter_baumannii_263903_1.GCA_000682155.1.24.dna.genome.fa									
+Acinetobacter_baumannii_263903_2.GCA_000583395.1.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_272263.GCA_000581215.1.24.dna.genome.fa									
+Acinetobacter_baumannii_478810.GCA_000584015.2.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_479375.GCA_000581715.1.24.dna.genome.fa									
+Acinetobacter_baumannii_573719.GCA_000588275.1.24.dna.genome.fa									
+Acinetobacter_baumannii_723929.GCA_000584215.1.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_742879.GCA_000588535.1.24.dna.genome.fa									
+Acinetobacter_baumannii_809848.GCA_000581275.1.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_826659.GCA_000588515.1.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_869535.GCA_000581035.1.24.dna.genome.fa									
+Acinetobacter_baumannii_883425.GCA_000588395.1.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_907131.GCA_000582195.1.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_983759.GCA_000582135.1.24.dna.genome.fa									
+Acinetobacter_baumannii_ci78.GCA_000516615.1.24.dna.genome.fa									pittii*
+Acinetobacter_baumannii_wc_136.GCA_000315155.1.24.dna.genome.fa									pittii
+Acinetobacter_baumannii_wc_141.GCA_000313935.1.24.dna.genome.fa									
+Acinetobacter_baumannii_wc_323.GCA_000314615.1.24.dna.genome.fa									
+Acinetobacter_calcoaceticus_anc_3680.GCA_000368945.1.24.dna.genome.fa									calcoaceticus
+Acinetobacter_calcoaceticus_anc_3811.GCA_000399665.1.24.dna.genome.fa									calcoaceticus
+Acinetobacter_calcoaceticus_dsm_30006_cip_81_8.GCA_000368965.1.24.dna.genome.fa									calcoaceticus
+Acinetobacter_calcoaceticus_niph_13.GCA_000367865.1.24.dna.genome.fa									calcoaceticus
+Acinetobacter_calcoaceticus_phea_2.GCA_000191145.1.24.dna.genome.fa									
+Acinetobacter_calcoaceticus_ruh2202.GCA_000162035.1.24.dna.genome.fa									
+Acinetobacter_pittii_42f.GCA_000529235.1.24.dna.genome.fa									pittii*
+Acinetobacter_pittii_anc_3678.GCA_000369025.1.24.dna.genome.fa									pittii
+Acinetobacter_pittii_anc_4050.GCA_000399685.1.24.dna.genome.fa									pittii*
+Acinetobacter_pittii_anc_4052.GCA_000399705.1.24.dna.genome.fa									pittii*
+Acinetobacter_pittii_cip_70_29.GCA_000369045.1.24.dna.genome.fa									pittii

@@ -50,8 +50,9 @@ def filterFiles(args):
 				continue
 			else:
 				line = i.split('\t')
-				print line
 				typeToCheck = line[int(args.i)].strip()
+				if typeToCheck == '':
+					typeToCheck = 'indeterminate'
 				if typeToCheck not in objectOfTypes:
 					objectOfTypes[typeToCheck] = []
 					objectOfTypes[typeToCheck].append(line[int(args.f)])
@@ -76,9 +77,6 @@ def filterFiles(args):
 
 			if minValue > maxNumber:
 				minValue = maxNumber
-
-			#print minValue
-			#print maxNumber
 
 			picked = random.sample(objectOfTypes[i], random.randint(minValue,maxNumber))
 
