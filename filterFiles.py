@@ -53,7 +53,6 @@ def filterFiles(args):
 				if typeToCheck == '':
 					typeToCheck = 'indeterminate'
 				if typeToCheck not in objectOfTypes:
-					groups.append(typeToCheck)
 					objectOfTypes[typeToCheck] = []
 					objectOfTypes[typeToCheck].append(line[int(args.f)])
 				else:
@@ -62,10 +61,12 @@ def filterFiles(args):
 		numberOfGroups = objectOfTypes.keys()
 		maxNumberOfSamples = int(args.max)
 
+
 		toExport = {}
 
 		totalSampled = 0
 		for i in objectOfTypes:
+			groups.append([i, len(objectOfTypes[i])])
 			if args.g:
 				if str(i) != str(args.g):
 					continue
