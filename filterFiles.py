@@ -12,8 +12,6 @@ import random
 def main():
 
 	parser = argparse.ArgumentParser(description="This program filters files from a directory by searching for filenames in a list")
-	#parser.add_argument('-i', nargs='?', type=str, help="folder with all files", required=True)
-	#parser.add_argument('-d', nargs='?', type=str, help="Tokens to search at the table ( ; separates between token)", required=True)
 	parser.add_argument('-t', nargs='?', type=str, help="table to check for tokens", required=True)
 	parser.add_argument('-i', nargs='?', type=str, help="column index to check", required=True)
 	parser.add_argument('-f', nargs='?', type=str, help="filename column", required=True)
@@ -41,6 +39,7 @@ def filterFiles(args):
 
 	objectOfTypes = {}
 	headerLine = True;
+	groups = [];
 
 	with open(args.t) as fileContent:
 		fileList = fileContent.readlines()
@@ -54,6 +53,7 @@ def filterFiles(args):
 				if typeToCheck == '':
 					typeToCheck = 'indeterminate'
 				if typeToCheck not in objectOfTypes:
+					groups.append(typeToCheck)
 					objectOfTypes[typeToCheck] = []
 					objectOfTypes[typeToCheck].append(line[int(args.f)])
 				else:
@@ -86,6 +86,8 @@ def filterFiles(args):
 
 
 		print 'Total sample length: ' + str(totalSampled)
+
+	print groups
 			
 
 	return toExport
