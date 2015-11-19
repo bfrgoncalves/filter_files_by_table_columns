@@ -38,6 +38,8 @@ def copyFiles(args):
 	countNumberFiles = 0
 
 	newFolder = 'batch_' + str(countFolders)
+	if not os.path.isdir(join(args.r, newFolder)):
+		os.makedirs(join(args.r, newFolder))
 
 	with open(args.l, 'r') as listToUse:
 		lines = listToUse.readlines();
@@ -48,6 +50,8 @@ def copyFiles(args):
 					countNumberFiles = 0
 					countFolders += 1
 					newFolder = 'batch_' + str(countFolders)
+					if not os.path.isdir(join(args.r, newFolder)):
+						os.makedirs(join(args.r, newFolder))
 
 				countNumberFiles += 1
 				filename, extension = os.path.splitext(fileToCheck);
